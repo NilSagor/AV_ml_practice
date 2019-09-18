@@ -128,4 +128,4 @@ dmypy.json
 
 
 # datasets folder
-twitter_senti/twitter_data/
+datasets/
